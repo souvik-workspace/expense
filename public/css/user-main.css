@@ -1,0 +1,9 @@
+.regformInput{   
+    height: 75px;
+}
+
+.errorMsg{
+    margin: 0 0 0 18px;
+    color: red;
+    font-size: 12px;
+}
